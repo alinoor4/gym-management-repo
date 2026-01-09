@@ -1,3 +1,3 @@
 # Gym Management Program
 
-First semester project written in python and is only usable as command line interface program with no file handling.
+This Python program runs primarily via the command line and does not have any file handling.
