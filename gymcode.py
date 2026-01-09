@@ -1,7 +1,3 @@
-'''Submitted by
-FA24-BCS-013 Muhammad Ali Hassan Noor
-FA24-BCS-008 Ahmad Mustafa Khalid
-Gym Membership Record'''
 def main():
     members = {}
     member_id = 1
